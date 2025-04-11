@@ -38,7 +38,7 @@
     "@grpc/grpc-js": "^1.8.7",
     "@kubernetes/client-node": "^0.16.3",
     "@linear/sdk": "^1.22.0",
-    "@octokit/auth-app": "^4.0.9",
+    "@octokit/auth-app": "^7.2.1",
     "@peculiar/webcrypto": "^1.2.3",
     "@popmotion/popcorn": "^0.4.4",
     "@react-email/button": "0.0.4",
