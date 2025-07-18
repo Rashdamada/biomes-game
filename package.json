@@ -147,7 +147,7 @@
     "reactflow": "^11.7.0",
     "recursive-readdir-async": "^1.3.0",
     "remote-web-worker": "^0.0.9",
-    "response-time": "^2.3.2",
+    "response-time": "^2.3.4",
     "segfault-handler": "^1.3.0",
     "serialize-error": "^8.1.0",
     "sharp": "^0.32.4",
