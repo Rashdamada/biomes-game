@@ -100,7 +100,7 @@
     "js-yaml": "^4.1.0",
     "jsonwebtoken": "^8.5.1",
     "leaflet": "^1.9.3",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "mathjs": "^11.8.0",
     "md5": "^2.3.0",
     "mime-types": "^2.1.35",
