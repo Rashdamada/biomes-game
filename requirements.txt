@@ -1,4 +1,4 @@
-black==21.12b0
+black==26.3.1
 click==8.0.3
 colorama==0.4.4
 docopt==0.6.2
